@@ -1,0 +1,202 @@
+[
+  {
+    "barcode": "74001755",
+    "item": "Ball Gown",
+    "category": "Full Body Outfits",
+    "price": 3548,
+    "discount": 7,
+    "available": 1
+  },
+  {
+    "barcode": "74002423",
+    "item": "Shawl",
+    "category": "Accessories",
+    "price": 758,
+    "discount": 12,
+    "available": 1
+  },
+  {
+    "barcode": "74003567",
+    "item": "Tuxedo",
+    "category": "Full Body Outfits",
+    "price": 4120,
+    "discount": 10,
+    "available": 1
+  },
+  {
+    "barcode": "74004889",
+    "item": "Evening Dress",
+    "category": "Full Body Outfits",
+    "price": 2890,
+    "discount": 5,
+    "available": 1
+  },
+  {
+    "barcode": "74005732",
+    "item": "Leather Belt",
+    "category": "Accessories",
+    "price": 980,
+    "discount": 8,
+    "available": 1
+  },
+  {
+    "barcode": "74006291",
+    "item": "Wristwatch",
+    "category": "Accessories",
+    "price": 4750,
+    "discount": 15,
+    "available": 1
+  },
+  {
+    "barcode": "74007321",
+    "item": "Wool Scarf",
+    "category": "Accessories",
+    "price": 620,
+    "discount": 10,
+    "available": 1
+  },
+  {
+    "barcode": "74008356",
+    "item": "Sports Cap",
+    "category": "Accessories",
+    "price": 450,
+    "discount": 5,
+    "available": 1
+  },
+  {
+    "barcode": "74009788",
+    "item": "Slim Fit Suit",
+    "category": "Full Body Outfits",
+    "price": 3870,
+    "discount": 9,
+    "available": 1
+  },
+  {
+    "barcode": "74010932",
+    "item": "Handbag",
+    "category": "Accessories",
+    "price": 2899,
+    "discount": 7,
+    "available": 1
+  },
+  {
+    "barcode": "74012145",
+    "item": "Casual Sneakers",
+    "category": "Footwear",
+    "price": 1750,
+    "discount": 6,
+    "available": 1
+  },
+  {
+    "barcode": "74013578",
+    "item": "Leather Boots",
+    "category": "Footwear",
+    "price": 3250,
+    "discount": 10,
+    "available": 1
+  },
+  {
+    "barcode": "74014832",
+    "item": "Running Shoes",
+    "category": "Footwear",
+    "price": 2100,
+    "discount": 12,
+    "available": 1
+  },
+  {
+    "barcode": "74015992",
+    "item": "High Heels",
+    "category": "Footwear",
+    "price": 2480,
+    "discount": 5,
+    "available": 1
+  },
+  {
+    "barcode": "74016222",
+    "item": "Flip Flops",
+    "category": "Footwear",
+    "price": 390,
+    "discount": 8,
+    "available": 1
+  },
+  {
+    "barcode": "74017549",
+    "item": "Denim Jacket",
+    "category": "Outerwear",
+    "price": 2780,
+    "discount": 10,
+    "available": 1
+  },
+  {
+    "barcode": "74018945",
+    "item": "Winter Coat",
+    "category": "Outerwear",
+    "price": 4870,
+    "discount": 15,
+    "available": 1
+  },
+  {
+    "barcode": "74019234",
+    "item": "Leather Jacket",
+    "category": "Outerwear",
+    "price": 4590,
+    "discount": 7,
+    "available": 1
+  },
+  {
+    "barcode": "74020567",
+    "item": "Windbreaker",
+    "category": "Outerwear",
+    "price": 1980,
+    "discount": 6,
+    "available": 1
+  },
+  {
+    "barcode": "74021890",
+    "item": "Puffer Vest",
+    "category": "Outerwear",
+    "price": 3250,
+    "discount": 9,
+    "available": 1
+  },
+  {
+    "barcode": "74022987",
+    "item": "Smartphone",
+    "category": "Electronics",
+    "price": 7899,
+    "discount": 10,
+    "available": 1
+  },
+  {
+    "barcode": "74023569",
+    "item": "Laptop",
+    "category": "Electronics",
+    "price": 12000,
+    "discount": 12,
+    "available": 1
+  },
+  {
+    "barcode": "74024988",
+    "item": "Smartwatch",
+    "category": "Electronics",
+    "price": 3250,
+    "discount": 8,
+    "available": 1
+  },
+  {
+    "barcode": "74025977",
+    "item": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2490,
+    "discount": 7,
+    "available": 1
+  },
+  {
+    "barcode": "74026899",
+    "item": "Tablet",
+    "category": "Electronics",
+    "price": 5999,
+    "discount": 9,
+    "available": 1
+  }
+]
