@@ -42,7 +42,7 @@ mvn mvn spring-boot:run
 
 ### Endpoints
 
-- GET /api/products/price-range: Search for products within a price range.
+- GET filter/price/{initialRange}/{finalRange}: Search for products within a price range.
 
 - - Request Parameters:
 
@@ -52,7 +52,7 @@ mvn mvn spring-boot:run
 
 - - Response: A JSON array of products whose price is within the given range.
 
-- GET /api/products/sorted: Retrieve products sorted by price.
+- GET sort/price: Retrieve products sorted by price.
 
 - - Response: A JSON array of products sorted by price ascending.
 
